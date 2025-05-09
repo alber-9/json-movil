@@ -1,19 +1,20 @@
 {
-  "nombre": "loco Pér**ez",
-  "edad": 30,
-  "ciudad": "Lima",
-  "intereses": ["fútbol", "programación", "música"]
-},
-{
-  "nombre": "pepi**to",
-  "edad": 28,
-  "ciudad": "Lima",
-  "intereses": ["fútbol", "programación", "música","loco"]
-},
-{
-  "nombre": "ton99o",
-  "edad": 15,
-  "ciudad": "Li1ma",
-  "intereses": ["fútbol", "programación", "música","oooo"]
+  "usuarios": [
+    {
+      "nombre": "Ana",
+      "edad": 25,
+      "ciudad": "Lima"
+    },
+    {
+      "nombre": "Luis",
+      "edad": 30,
+      "ciudad": "Cusco"
+    },
+    {
+      "nombre": "María",
+      "edad": 28,
+      "ciudad": "Arequipa"
+    }
+  ]
 }
 
