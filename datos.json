@@ -3,4 +3,10 @@
   "edad": 30,
   "ciudad": "Lima",
   "intereses": ["fútbol", "programación", "música"]
+},
+{
+  "nombre": "pepito",
+  "edad": 28,
+  "ciudad": "Lima",
+  "intereses": ["fútbol", "programación", "música","loco"]
 }
