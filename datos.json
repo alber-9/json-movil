@@ -9,4 +9,11 @@
   "edad": 28,
   "ciudad": "Lima",
   "intereses": ["fútbol", "programación", "música","loco"]
+},
+{
+  "nombre": "tonto",
+  "edad": 28,
+  "ciudad": "Lima",
+  "intereses": ["fútbol", "programación", "música","loco"]
 }
+
