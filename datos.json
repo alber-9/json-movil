@@ -14,6 +14,11 @@
       "nombre": "María",
       "edad": 28,
       "ciudad": "Arequipa"
+    },
+    {
+      "nombre": "alberto",
+      "edad": 28,
+      "ciudad": "granada"
     }
   ]
 }
